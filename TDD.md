@@ -129,5 +129,3 @@ Esta ayudará a la dificultad del modo historia, el cual es competir en modo pro
 - 4GB de RAM.
 - Al menos 2GB de espacio de almacenamiento.
 ```
-
-Este formato debería verse bien en un archivo `.md` en GitHub. He añadido los encabezados, listas, tablas y demás elementos para organizar el contenido. Si lo subes a tu repositorio, debería mostrarse de manera estructurada y fácil de leer.
