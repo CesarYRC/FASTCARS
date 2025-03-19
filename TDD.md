@@ -128,4 +128,3 @@ Esta ayudará a la dificultad del modo historia, el cual es competir en modo pro
 - Procesador Snapdragon 720G o equivalente.
 - 4GB de RAM.
 - Al menos 2GB de espacio de almacenamiento.
-```
